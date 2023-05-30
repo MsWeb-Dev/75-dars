@@ -104,11 +104,11 @@ $(document).ready(function(){
 
 
 // //chart js
-// // const myChart = new Chart("myChart", {
-// //     type: "scatter",
-// //     data: {},
-// //     options: {}
-// //   });
+const myChart = new Chart("myChart", {
+    type: "scatter",
+    data: {},
+    options: {}
+  });
 
 // // const myChart = new Chart("myChart", {
 // //     type: "line",
